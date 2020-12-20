@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Encryption-Decryption-task_main" target="11" />
+      <module name="Encryption-Decryption-task_test" target="11" />
+      <module name="Problems-Basic_calculator_main" target="11" />
+      <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Parameters_and_their_values_main" target="11" />
+      <module name="Problems-Parameters_and_their_values_test" target="11" />
+      <module name="Problems-The_index_of_an_argument_main" target="11" />
+      <module name="Problems-The_index_of_an_argument_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
