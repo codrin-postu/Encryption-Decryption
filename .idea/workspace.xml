@@ -2,41 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d8180c8-ebe5-4812-9d8a-d72930fb1371" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clock factory/Problems-Clock_factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clock factory/Problems-Clock_factory_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clock factory/Problems-Clock_factory_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clocks/Problems-Clocks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clocks/Problems-Clocks_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Clocks/Problems-Clocks_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Laptop store/Problems-Laptop_store_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Problems-Max_and_Min.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Problems-Max_and_Min_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Max and Min/Problems-Max_and_Min_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Motor static factory/Problems-Motor_static_factory_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Problems-Pick_your_team.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Problems-Pick_your_team_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Pick your team/Problems-Pick_your_team_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Robot/Problems-Robot_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Static factory methods for Time/Problems-Static_factory_methods_for_Time_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method (1)/Problems-Template_Method__1_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method (1)/Problems-Template_Method__1__main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method (1)/Problems-Template_Method__1__test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method/Problems-Template_Method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method/Problems-Template_Method_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Template Method/Problems-Template_Method_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/CryptionMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/CryptionPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/ShiftCryptMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/UnicodeCryptMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to char array/Problems-Convert_to_char_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to char array/Problems-Convert_to_char_array_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Convert to char array/Problems-Convert_to_char_array_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -50,17 +18,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/Choices, choices/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/X-files/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/BasicCrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/BasicCrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/BasicCrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/src/encryptdecrypt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption-Decryption/task/test/EncryptDecryptTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +127,7 @@
       <updated>1608217086878</updated>
       <workItem from="1608217089093" duration="3936000" />
       <workItem from="1608472713569" duration="1171000" />
-      <workItem from="1608473902231" duration="21068000" />
+      <workItem from="1608473902231" duration="22025000" />
     </task>
     <servers />
   </component>

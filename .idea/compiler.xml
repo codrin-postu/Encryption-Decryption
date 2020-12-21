@@ -10,6 +10,8 @@
       <module name="Problems-Clock_factory_test" target="11" />
       <module name="Problems-Clocks_main" target="11" />
       <module name="Problems-Clocks_test" target="11" />
+      <module name="Problems-Convert_to_char_array_main" target="11" />
+      <module name="Problems-Convert_to_char_array_test" target="11" />
       <module name="Problems-Laptop_store_main" target="11" />
       <module name="Problems-Laptop_store_test" target="11" />
       <module name="Problems-Max_and_Min_main" target="11" />
