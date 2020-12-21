@@ -6,8 +6,28 @@
       <module name="Encryption-Decryption-task_test" target="11" />
       <module name="Problems-Basic_calculator_main" target="11" />
       <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Clock_factory_main" target="11" />
+      <module name="Problems-Clock_factory_test" target="11" />
+      <module name="Problems-Clocks_main" target="11" />
+      <module name="Problems-Clocks_test" target="11" />
+      <module name="Problems-Laptop_store_main" target="11" />
+      <module name="Problems-Laptop_store_test" target="11" />
+      <module name="Problems-Max_and_Min_main" target="11" />
+      <module name="Problems-Max_and_Min_test" target="11" />
+      <module name="Problems-Motor_static_factory_main" target="11" />
+      <module name="Problems-Motor_static_factory_test" target="11" />
       <module name="Problems-Parameters_and_their_values_main" target="11" />
       <module name="Problems-Parameters_and_their_values_test" target="11" />
+      <module name="Problems-Pick_your_team_main" target="11" />
+      <module name="Problems-Pick_your_team_test" target="11" />
+      <module name="Problems-Robot_main" target="11" />
+      <module name="Problems-Robot_test" target="11" />
+      <module name="Problems-Static_factory_methods_for_Time_main" target="11" />
+      <module name="Problems-Static_factory_methods_for_Time_test" target="11" />
+      <module name="Problems-Template_Method__1__main" target="11" />
+      <module name="Problems-Template_Method__1__test" target="11" />
+      <module name="Problems-Template_Method_main" target="11" />
+      <module name="Problems-Template_Method_test" target="11" />
       <module name="Problems-The_index_of_an_argument_main" target="11" />
       <module name="Problems-The_index_of_an_argument_test" target="11" />
       <module name="util_main" target="11" />

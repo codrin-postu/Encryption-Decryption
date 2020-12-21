@@ -12,6 +12,7 @@ public class Main {
         int key = 0;
         String readFilePath = "";
         String outputFilePath = "";
+        String cryptAlg = "shift";
 
         for (int i = 0; i < args.length; i += 2) {
             switch (args[i]) {
@@ -30,6 +31,8 @@ public class Main {
                 case "-data":
                     inputText = args[i + 1];
                     break;
+                case "-alg":
+                    cryptAlg = args[i + 1];
             }
         }
 
@@ -37,19 +40,22 @@ public class Main {
             inputText = readFromFile(readFilePath);
         }
 
-        if (mode.equals("enc")) {
-            if (!outputFilePath.equals("")) {
-                BasicCrypt.EncryptText(inputText, key, outputFilePath);
-            } else {
-                System.out.println(BasicCrypt.EncryptText(inputText, key));
-            }
-        } else {
-            if (!outputFilePath.equals("")) {
-                BasicCrypt.DecryptText(inputText, key, outputFilePath);
-            } else {
-                System.out.println(BasicCrypt.DecryptText(inputText, key));
-            }
+        CryptionPicker picker = new CryptionPicker();
+
+        if (!picker.setMethod(cryptAlg)){
+            return;
         }
+
+       switch (mode) {
+           case "enc":
+               picker.encrypt(inputText, key, outputFilePath);
+               break;
+           case "dec":
+               picker.decrypt(inputText, key, outputFilePath);
+               break;
+       }
+
+
     }
 
     private static String readFromFile(String readFilePath) throws FileNotFoundException {

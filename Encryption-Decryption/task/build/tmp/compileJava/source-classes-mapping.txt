@@ -1,4 +1,12 @@
-encryptdecrypt/BasicCrypt.java
- encryptdecrypt.BasicCrypt
+encryptdecrypt/UnicodeCryptMethod.java
+ encryptdecrypt.UnicodeCryptMethod
 encryptdecrypt/Main.java
  encryptdecrypt.Main
+encryptdecrypt/CryptionMethod.java
+ encryptdecrypt.CryptionMethod
+encryptdecrypt/ShiftCryptMethod.java
+ encryptdecrypt.ShiftCryptMethod
+encryptdecrypt/BasicCrypt.java
+ encryptdecrypt.BasicCrypt
+encryptdecrypt/CryptionPicker.java
+ encryptdecrypt.CryptionPicker
